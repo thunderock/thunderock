@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**thunderock/thunderock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Ashutosh Tiwari
+Hi this is Ashutosh. My interests include application of various ML algorithms (Active Learning, Transformers, Deep Learning and other statistical methods) in field of NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Website
+https://thunderock.github.io/about/
+
+## Skills 
+* Python
+* Tensorflow
+
+
+
+
+## Examples of Work
