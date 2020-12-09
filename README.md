@@ -19,7 +19,7 @@
 
 
 
-<br />
+
 # Ashutosh Tiwari
 Hi this is Ashutosh. My interests include application of various ML algorithms (Active Learning, Transformers, Deep Learning and other statistical methods) in field of NLP.
 
