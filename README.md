@@ -40,7 +40,7 @@ https://thunderock.github.io/
 <p align="center">
 <a href="https://github.com/thunderock">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thunderock&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thunderock&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thunderock&layout=compact&langs_count=10"/>
 </a>
 </p>
 
