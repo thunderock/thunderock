@@ -49,3 +49,5 @@ https://thunderock.github.io/
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 -->
+
+Give a ⭐️ to my pinned repositories, if you like my work.
