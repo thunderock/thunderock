@@ -35,19 +35,16 @@ https://thunderock.github.io/
 * Keras
 * C++
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/thunderock">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thunderock&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thunderock&layout=compact&langs_count=8"/>
+</a>
+</p>
 
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=thunderock&show_icons=true&hide_border=true&hide=[%22contribs%22]&line_height=28)
 
-<!--## Examples of Work
-
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
-
-## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
--->
 
 Give a ⭐️ to my pinned repositories, if you like my work.
