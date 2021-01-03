@@ -46,5 +46,3 @@ https://thunderock.github.io/
 
 
 
-
-Give a ⭐️ to my pinned repositories, if you like my work.
