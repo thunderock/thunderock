@@ -22,7 +22,7 @@
 
 # Ashutosh Tiwari
 Hi this is Ashutosh. My interests include application of various ML algorithms (Active Learning, Transformers, Deep Learning and other statistical methods) in field of NLP.
-
+Since Fall 2021, I am an MSDS (Computational) student at Indiana University, Bloomington. 
 
 ## Website
 https://thunderock.github.io/
