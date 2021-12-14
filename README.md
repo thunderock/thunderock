@@ -44,5 +44,5 @@ https://thunderock.github.io/
 </a>
 </p>
 
-
+[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=thunderock&theme=react-dark)](https://github.com/thunderock)
 
