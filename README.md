@@ -12,10 +12,12 @@
 <a href="https://www.kaggle.com/alphadraco">
   <img align="left" alt="Ashutosh's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
-
-<a href="https://www.analyticsvidhya.com/user/checkashu">
-  <img align="left" alt="Ashutosh's Analytics Vidhya" width="22px" src="anavidhya.jpeg" />
+<a href="https://thunderock.github.io/docs/Ashutosh_Tiwari.pdf">
+  <img align="left" alt="Ashutosh's Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
+
+
+
 
 
 
