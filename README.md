@@ -23,8 +23,8 @@
 
 
 # Ashutosh Tiwari
-Hi this is Ashutosh. My interests include application of various ML algorithms (Active Learning, Transformers, Deep Learning, Reinforcement Learning and other statistical methods) in field of NLP. <br/>
-Since Fall 2021, I am an MSDS (Computational) student at Indiana University, Bloomington. I have around 6 years of Software Engineering experience with high performing startups and unicorns. I am currently open for Data Science Internship positions in Summer 2022.
+Hi this is Ashutosh. My interests include application of various ML algorithms (Active Learning, Transformers, Deep Learning, Reinforcement Learning and other statistical methods) on real world problems. Please check out my projects and competitive Data Science experience at my Github Page (link below).<br/>
+Since Fall 2021, I am an MSDS (Computational) student at Indiana University, Bloomington. I have around 6 years of Software Engineering experience with high performing startups and unicorns. I am currently open for Data Science Internship positions in Summer starting May, 2022.
 
 ## Website
 https://thunderock.github.io/
