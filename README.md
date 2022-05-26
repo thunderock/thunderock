@@ -23,8 +23,9 @@
 
 
 # Ashutosh Tiwari
-Hi this is Ashutosh. My interests include application of various ML algorithms (Active Learning, Transformers, Deep Learning, Reinforcement Learning and other statistical methods) on real world problems. Please check out my projects and competitive Data Science experience at my Github Page (link below).<br/>
-Since Fall 2021, I am an MSDS (Computational) student at Indiana University, Bloomington. I have around 6 years of Software Engineering experience with high performing startups and unicorns. I am currently open for Data Science Internship positions in Summer starting May, 2022.
+I am a Computational Data Science grad student at Indiana University, Bloomington. I have around 6 years of software engineering experience, working on Search Relevance @ Flipkart (a Walmart company) and Data Science Platform at hyper-scaled startups. These teams process billion of events per day and are central to success of operational excellence of respective companies.
+
+I am broadly interested in Applied Machine Learning and Data Science and building structural and semi-structural solutions to complex real world problems. In my professional life I tackled NLP and Time Series Forecasting. In my free time I like spending time participating in ML competitions.
 
 ## Website
 https://thunderock.github.io/
