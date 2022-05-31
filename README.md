@@ -25,7 +25,7 @@
 # Ashutosh Tiwari
 I am a Computational Data Science grad student at Indiana University, Bloomington. I have around 6 years of software engineering experience, working on Search Relevance @ Flipkart (a Walmart company) and Data Science Platform at hyper-scaled startups. These teams process billion of events per day and are central to success of operational excellence of respective companies.
 
-I am broadly interested in Applied Machine Learning and Data Science and building structural and semi-structural solutions to complex real world problems. In my professional life I tackled NLP and Time Series Forecasting. In my free time I like spending time participating in ML competitions.
+I am broadly interested in Applied Machine Learning and Data Science roles, building structural and semi-structural solutions to complex real world problems. In my professional life I tackled NLP and Time Series Forecasting. In my free time I like spending time participating in ML competitions.
 
 ## Website
 https://thunderock.github.io/
