@@ -12,7 +12,7 @@
 <a href="https://www.kaggle.com/alphadraco">
   <img align="left" alt="Ashutosh's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
-<a href="https://thunderock.github.io/docs/Ashutosh_Tiwari.pdf">
+<a href="https://thunderock.github.io/docs/AshutoshTiwari.pdf">
   <img align="left" alt="Ashutosh's Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeacrobatreader.svg" />
 </a>
 
