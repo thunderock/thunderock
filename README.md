@@ -23,7 +23,7 @@
 
 
 # Ashutosh Tiwari
-Available for full-time roles starting May 2023.
+Available for full-time roles starting summer 2023.
 
 I am a Computational Data Science grad student at Indiana University, Bloomington with research focus on Fairness Aware Graph ML.
 
