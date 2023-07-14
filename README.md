@@ -30,7 +30,6 @@ I am a Computational Data Science grad student at Indiana University, Bloomingto
 Currently, I am part of a research group at the Center for Complex Networks working on "Fairness Aware AI using Biased Models" as a research assistant. My research focuses on novel training methods to obtain bias-agnostic models.
  
  I have around 6 years of software engineering experience, working on Search Relevance @ Flipkart (a Walmart company) and Data Science Platform at hyper-scaled startups. These teams process billions of events per day and are central to the success of operational excellence of respective companies.
-I am broadly interested in Applied Machine Learning and Data Science roles, building structural and semi-structural solutions to complex real-world problems. In my professional life I tackled NLP and Time Series Forecasting. In my free time I like spending time participating in ML competitions.
 
 ## Website
 https://thunderock.github.io/
