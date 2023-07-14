@@ -25,10 +25,9 @@
 # Ashutosh Tiwari
 Available for full-time roles starting summer 2023.
 
-I am a Computational Data Science grad student at Indiana University, Bloomington with research focus on Fairness Aware Graph ML.
+I am a Computational Data Science grad student at Indiana University, Bloomington.
 
-Currently, I am part of a research group at the Center for Complex Networks working on "Fairness Aware AI using Biased Models" as a research assistant. My research focuses on novel training methods to obtain bias-agnostic models.
- 
+
  I have around 6 years of software engineering experience, working on Search Relevance @ Flipkart (a Walmart company) and Data Science Platform at hyper-scaled startups. These teams process billions of events per day and are central to the success of operational excellence of respective companies.
 
 ## Website
