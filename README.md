@@ -23,10 +23,8 @@
 
 
 # Ashutosh Tiwari
-Available for full-time roles starting summer 2023.
 
-I am a Computational Data Science grad student at Indiana University, Bloomington.
-
+I did my MS in Computational Data Science at Indiana University, Bloomington (2023), and my BS from National Institute of Technology, Patna (2015).
 
  I have around 6 years of software engineering experience, working on Search Relevance @ Flipkart (a Walmart company) and Data Science Platform at hyper-scaled startups. These teams process billions of events per day and are central to the success of operational excellence of respective companies.
 
